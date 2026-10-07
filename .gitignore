@@ -1,0 +1,60 @@
+# Environments
+.venv/
+*/.venv/
+*/*/.venv/
+.env
+*/.env
+*/*/.env
+
+# Node / Frontend
+node_modules/
+*/node_modules/
+*/*/node_modules/
+dist/
+*/dist/
+*/*/dist/
+.eslintcache
+
+# Java / Spring Boot / Gradle
+.gradle/
+*/.gradle/
+*/*/.gradle/
+build/
+*/build/
+*/*/build/
+bin/
+*/bin/
+*/*/bin/
+out/
+*/out/
+
+# Python
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Scratch, Temp & Logs
+scratch/
+Ecommerce-Chatbot-Project/
+*.log
+*.tmp
+logs/
+*/logs/
+
+# IDE & Editor files
+.vscode/
+*/.vscode/
+.idea/
+*/.idea/
+*.suo
+*.user
+*.useros
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini

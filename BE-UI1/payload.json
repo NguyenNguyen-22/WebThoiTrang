@@ -1,0 +1,16 @@
+{
+  "id": 12,
+  "name": "Áo Hoodie Local Brand Unisex LUCID Basic Nam Nữ Nỉ Lông Cáo Form Rộng Mũ 2 Lớp Siêu To (Updated)",
+  "categoryId": 1,
+  "price": 180000.0,
+  "salePrice": 150000.0,
+  "stock": 100,
+  "isActive": true,
+  "description": "Thoáng mát",
+  "images": [
+    {"color":"Đỏ","id":813,"imageUrl":"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mgb01lj3r7yh90@resize_w900_nl.webp","isMain":true,"sortOrder":0},
+    {"color":"Xám","id":814,"imageUrl":"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mgb01lj7w45q3b.webp","isMain":false,"sortOrder":1},
+    {"color":"Đen","id":815,"imageUrl":"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mgb01lj0r28bda@resize_w900_nl.webp","isMain":false,"sortOrder":2}
+  ],
+  "variants": []
+}
